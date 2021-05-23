@@ -8,7 +8,7 @@
         <version>2.5.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.mafei.photoapp.api.user</groupId>
+    <groupId>com.mafei.photoapp.api.APUser</groupId>
     <artifactId>PhotoAppApiUser</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>PhotoAppApiUser</name>
